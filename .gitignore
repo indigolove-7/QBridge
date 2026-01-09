@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env & local
+.venv/
+.env
+*.env
+
+
+database/
+*.sqlite
+*.pt
+*.bin
+*.safetensors
+
+# outputs
+outputs/
+*.log
+
+# os
+.DS_Store
+
